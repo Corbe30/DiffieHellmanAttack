@@ -7,7 +7,7 @@ Traditionally, secure encrypted communication between two parties required that 
 
 Diffie–Hellman is used to secure a variety of Internet services. However, research published in October 2015 suggests that the parameters in use for many D–H Internet applications at that time are not strong enough to prevent compromise by very well-funded attackers, such as the security services of large governments.
 
-The scheme was first published by Whitfield Diffie and Martin Hellman in 1976,[2] but in 1997 it was revealed that James H. Ellis, Clifford Cocks and Malcolm J. Williamson of GCHQ, the British signals intelligence agency, had previously shown how public-key cryptography could be achieved.
+The scheme was first published by Whitfield Diffie and Martin Hellman in 1976, but in 1997 it was revealed that James H. Ellis, Clifford Cocks and Malcolm J. Williamson of GCHQ, the British signals intelligence agency, had previously shown how public-key cryptography could be achieved.
 
 Although Diffie–Hellman key agreement itself is a non-authenticated key-agreement protocol, it provides the basis for a variety of authenticated protocols, and is used to provide forward secrecy in Transport Layer Security's ephemeral modes (referred to as EDH or DHE depending on the cipher suite).
 

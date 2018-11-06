@@ -16,8 +16,8 @@ from discreteLogarithm import *
 # Variables Used
 p = int(input("Enter value for p: ")) #Example: 10784399
 g = int(input("Enter value for g: ")) #Example:13
-a = int(input("Enter value for A: ")) #Example:10306738
-b = int(input("Enter value for B: ")) #Example:1206314
+A = int(input("Enter value for A: ")) #Example:10306738
+B = int(input("Enter value for B: ")) #Example:1206314
 
 print("\nGiven this values: \n-------------------- \n")
 print("p =", str(p) )
